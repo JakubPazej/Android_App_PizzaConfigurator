@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">PizzaConfigurator</string>
+    <string-array name="pizzaName_array">
+        <item>Margherita</item>
+        <item>Marinara</item>
+        <item>Carbonara</item>
+        <item>Romana</item>
+        <item>Diavola</item>
+        <item>Ines</item>
+        <item>Rustica</item>
+        <item>Padana</item>
+    </string-array>
+</resources>
